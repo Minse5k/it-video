@@ -14,3 +14,6 @@
 
 - 주제: 인덱스 기본
 - 영상 URL: https://www.youtube.com/shorts/C_QfHO5IpFs
+
+- 주제: Clustered vs Non-Clustered 인덱스
+- 영상 URL: https://www.youtube.com/shorts/j0CoeNtAuT0
