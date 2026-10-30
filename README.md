@@ -17,3 +17,6 @@
 
 - 주제: Clustered vs Non-Clustered 인덱스
 - 영상 URL: https://www.youtube.com/shorts/j0CoeNtAuT0
+
+- 주제: BFS 너비 우선 탐색
+- 영상 URL: https://www.youtube.com/shorts/eJdTQFLn5t8
