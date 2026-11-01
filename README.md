@@ -20,3 +20,6 @@
 
 - 주제: BFS 너비 우선 탐색
 - 영상 URL: https://www.youtube.com/shorts/eJdTQFLn5t8
+
+- 주제: DFS 깊이 우선 탐색
+- 영상 URL: https://www.youtube.com/shorts/xDPKkz3tWAc
