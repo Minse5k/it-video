@@ -23,3 +23,6 @@
 
 - 주제: DFS 깊이 우선 탐색
 - 영상 URL: https://www.youtube.com/shorts/xDPKkz3tWAc
+
+- 주제: JPA 트랜잭션, 영속성 컨텍스트와 더티 체킹
+- 영상 URL: https://www.youtube.com/shorts/1VfclsD_va8
