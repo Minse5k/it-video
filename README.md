@@ -26,3 +26,6 @@
 
 - 주제: JPA 트랜잭션, 영속성 컨텍스트와 더티 체킹
 - 영상 URL: https://www.youtube.com/shorts/1VfclsD_va8
+
+- 주제: HTTP 주요 응답 코드
+- 영상 URL: https://www.youtube.com/shorts/pAv7V6-Y390
