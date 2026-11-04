@@ -29,3 +29,6 @@
 
 - 주제: HTTP 주요 응답 코드
 - 영상 URL: https://www.youtube.com/shorts/pAv7V6-Y390
+
+- 주제: JPA 연관관계와 로딩 전략, LAZY vs EAGER
+- 영상 URL: https://www.youtube.com/shorts/Mg_ZeHqyrPs
