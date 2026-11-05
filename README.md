@@ -32,3 +32,6 @@
 
 - 주제: JPA 연관관계와 로딩 전략, LAZY vs EAGER
 - 영상 URL: https://www.youtube.com/shorts/Mg_ZeHqyrPs
+
+- 주제: 스프링 DI, 생성자 주입을 쓰는 이유
+- 영상 URL: https://www.youtube.com/shorts/mLF8olIWF84
