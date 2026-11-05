@@ -35,3 +35,6 @@
 
 - 주제: 스프링 DI, 생성자 주입을 쓰는 이유
 - 영상 URL: https://www.youtube.com/shorts/mLF8olIWF84
+
+- 주제: REST API 설계, URL은 명사 행위는 메서드
+- 영상 URL: https://www.youtube.com/shorts/BtOgUUKCWIU
