@@ -41,3 +41,6 @@
 
 - 주제: Git merge vs rebase 차이
 - 영상 URL: https://www.youtube.com/shorts/B37Zci4iOE4
+
+- 주제: git reset vs revert, 그리고 reflog
+- 영상 URL: https://www.youtube.com/shorts/tJZnkBNIsqg
