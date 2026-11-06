@@ -38,3 +38,6 @@
 
 - 주제: REST API 설계, URL은 명사 행위는 메서드
 - 영상 URL: https://www.youtube.com/shorts/BtOgUUKCWIU
+
+- 주제: Git merge vs rebase 차이
+- 영상 URL: https://www.youtube.com/shorts/B37Zci4iOE4
