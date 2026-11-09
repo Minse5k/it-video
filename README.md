@@ -47,3 +47,6 @@
 
 - 주제: 다익스트라 최단 경로
 - 영상 URL: https://www.youtube.com/shorts/JgHLSKFBO-I
+
+- 주제: 이진 탐색
+- 영상 URL: https://www.youtube.com/shorts/MZ0JzKyzMCM
