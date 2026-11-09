@@ -44,3 +44,6 @@
 
 - 주제: git reset vs revert, 그리고 reflog
 - 영상 URL: https://www.youtube.com/shorts/tJZnkBNIsqg
+
+- 주제: 다익스트라 알고리즘, 우선순위 큐로 최단 경로 찾기
+- 영상 URL: https://www.youtube.com/shorts/JgHLSKFBO-I
