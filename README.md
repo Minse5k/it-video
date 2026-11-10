@@ -50,3 +50,6 @@
 
 - 주제: 이진 탐색
 - 영상 URL: https://www.youtube.com/shorts/MZ0JzKyzMCM
+
+- 주제: AOP와 스프링 AOP
+- 영상 URL: https://www.youtube.com/shorts/CcGueYesVsg
