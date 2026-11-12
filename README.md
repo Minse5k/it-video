@@ -59,3 +59,6 @@
 
 - 주제: git worktree, AI 에이전트에게 폴더 나눠 주기
 - 영상 URL: https://www.youtube.com/shorts/KiPh3u6ay1c
+
+- 주제: [롱폼] pstack, AI 에이전트 스킬 쉽게 이해하기
+- 영상 URL: https://www.youtube.com/watch?v=creA4FFCkoA
