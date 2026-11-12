@@ -56,3 +56,6 @@
 
 - 주제: 해시 테이블과 해시셋
 - 영상 URL: https://www.youtube.com/shorts/YgQEseDMt4g
+
+- 주제: git worktree, 브랜치 말고 폴더를 바꾸기
+- 영상 URL: https://www.youtube.com/shorts/I1w3-b-fWrU
