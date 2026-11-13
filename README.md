@@ -62,3 +62,6 @@
 
 - 주제: [롱폼] pstack, AI 에이전트 스킬 쉽게 이해하기
 - 영상 URL: https://www.youtube.com/watch?v=creA4FFCkoA
+
+- 주제: [롱폼] 점프 투 스프링부트, 교재대로 만들고 이유 있게 바꾸기
+- 영상 URL: https://www.youtube.com/watch?v=FX2xS1yoJRo
