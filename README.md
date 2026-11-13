@@ -65,3 +65,6 @@
 
 - 주제: [롱폼] 점프 투 스프링부트, 교재대로 만들고 이유 있게 바꾸기
 - 영상 URL: https://www.youtube.com/watch?v=FX2xS1yoJRo
+
+- 주제: 테이블 파티션, 큰 테이블을 조각으로 나눠 저장하기
+- 영상 URL: https://www.youtube.com/shorts/x5xObw6MAvw
