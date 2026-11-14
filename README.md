@@ -68,3 +68,6 @@
 
 - 주제: 테이블 파티션, 큰 테이블을 조각으로 나눠 저장하기
 - 영상 URL: https://www.youtube.com/shorts/x5xObw6MAvw
+
+- 주제: React와 Next.js 차이, 라이브러리와 프레임워크
+- 영상 URL: https://www.youtube.com/shorts/7_Q4yVxNdbQ
