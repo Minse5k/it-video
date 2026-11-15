@@ -71,3 +71,6 @@
 
 - 주제: React와 Next.js 차이, 라이브러리와 프레임워크
 - 영상 URL: https://www.youtube.com/shorts/7_Q4yVxNdbQ
+
+- 주제: agent-browser, AI 에이전트가 브라우저를 쓰는 법
+- 영상 URL: https://www.youtube.com/shorts/gXqM7nDvJ80
