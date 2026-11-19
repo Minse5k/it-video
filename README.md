@@ -74,3 +74,6 @@
 
 - 주제: agent-browser, AI 에이전트가 브라우저를 쓰는 법
 - 영상 URL: https://www.youtube.com/shorts/gXqM7nDvJ80
+
+- 주제: Ponytail, AI가 코드를 덜 쓰게 만드는 스킬
+- 영상 URL: https://www.youtube.com/shorts/bHh88NDtM-g
