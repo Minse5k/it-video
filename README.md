@@ -77,3 +77,6 @@
 
 - 주제: Ponytail, AI가 코드를 덜 쓰게 만드는 스킬
 - 영상 URL: https://www.youtube.com/shorts/bHh88NDtM-g
+
+- 주제: nginx, 서버 앞의 문지기를 식당으로 이해하기
+- 영상 URL: https://www.youtube.com/shorts/82mXxwix3Uc
