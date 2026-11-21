@@ -80,3 +80,6 @@
 
 - 주제: nginx, 서버 앞의 문지기를 식당으로 이해하기
 - 영상 URL: https://www.youtube.com/shorts/82mXxwix3Uc
+
+- 주제: CORS 에러, 브라우저의 경비실로 이해하기
+- 영상 URL: https://www.youtube.com/shorts/2AVB3i_9NxM
