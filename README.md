@@ -83,3 +83,6 @@
 
 - 주제: CORS 에러, 브라우저의 경비실로 이해하기
 - 영상 URL: https://www.youtube.com/shorts/2AVB3i_9NxM
+
+- 주제: Dioxus, 리액트처럼 러스트로 웹·데스크톱·모바일
+- 영상 URL: https://www.youtube.com/shorts/uN1gHocS0BU
