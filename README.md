@@ -86,3 +86,6 @@
 
 - 주제: Dioxus, 리액트처럼 러스트로 웹·데스크톱·모바일
 - 영상 URL: https://www.youtube.com/shorts/uN1gHocS0BU
+
+- 주제: PR 날리는 법, 조별 과제 수정 제안으로 이해하기
+- 영상 URL: https://www.youtube.com/shorts/vjfduSZmwdM
