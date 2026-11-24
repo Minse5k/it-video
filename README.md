@@ -89,3 +89,6 @@
 
 - 주제: PR 날리는 법, 조별 과제 수정 제안으로 이해하기
 - 영상 URL: https://www.youtube.com/shorts/vjfduSZmwdM
+
+- 주제: 클로저, 가방을 멘 함수로 이해하기
+- 영상 URL: https://www.youtube.com/shorts/F2bjgLWaqok
