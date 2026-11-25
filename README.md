@@ -92,3 +92,6 @@
 
 - 주제: 클로저, 가방을 멘 함수로 이해하기
 - 영상 URL: https://www.youtube.com/shorts/F2bjgLWaqok
+
+- 주제: cherry-pick, 커밋 하나만 골라 오기
+- 영상 URL: https://www.youtube.com/shorts/2EvN7WVP7O8
