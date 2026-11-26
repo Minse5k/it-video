@@ -95,3 +95,6 @@
 
 - 주제: cherry-pick, 커밋 하나만 골라 오기
 - 영상 URL: https://www.youtube.com/shorts/2EvN7WVP7O8
+
+- 주제: EC2, 클라우드 컴퓨터를 렌터카처럼 이해하기
+- 영상 URL: https://www.youtube.com/shorts/dN4M_5DhZKw
