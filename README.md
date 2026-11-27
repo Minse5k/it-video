@@ -98,3 +98,6 @@
 
 - 주제: EC2, 클라우드 컴퓨터를 렌터카처럼 이해하기
 - 영상 URL: https://www.youtube.com/shorts/dN4M_5DhZKw
+
+- 주제: LLM, 초대형 자동완성으로 이해하기
+- 영상 URL: https://www.youtube.com/shorts/B1aAnf4Qhbo
