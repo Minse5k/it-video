@@ -101,3 +101,6 @@
 
 - 주제: LLM, 초대형 자동완성으로 이해하기
 - 영상 URL: https://www.youtube.com/shorts/B1aAnf4Qhbo
+
+- 주제: GitHub Flow, rebase와 force push를 하는 이유
+- 영상 URL: https://www.youtube.com/shorts/29lWxhgdbdA
